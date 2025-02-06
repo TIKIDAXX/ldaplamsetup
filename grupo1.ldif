@@ -1,0 +1,5 @@
+dn: cn=grupo1,dc=example,dc=org
+objectClass: top
+objectClass: posixGroup
+cn: grupo1
+gidNumber: 1001
